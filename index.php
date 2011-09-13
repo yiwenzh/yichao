@@ -12,7 +12,7 @@
 <body>
 	<div id="wrapper">
 		<h1>
-			Yichao Wang
+			Yichao Wang & lalala~~~可以中文吗？
 			<span class="blue">.</span>
 			com
 		</h1>
